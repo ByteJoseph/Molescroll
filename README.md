@@ -21,7 +21,7 @@ Molescroll is a Django-based website designed for spiritual questions of Catholi
 
 ## Screenshots
 
-![Screenshot 1]([https://firebasestorage.googleapis.com/v0/b/school-bcecd.appspot.com/o/Annotation%202023-12-27%20103150.png?alt=media&token=4cbacb41-f5de-48a9-8eee-ce0447e48d14])
+![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/school-bcecd.appspot.com/o/Annotation%202023-12-27%20103150.png?alt=media&token=4cbacb41-f5de-48a9-8eee-ce0447e48d14)
 *Caption for screenshot 1.*
 
 ![Screenshot 2](screenshots/screenshot2.png)
