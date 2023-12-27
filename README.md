@@ -1,2 +1,46 @@
 # Molescroll
- "Molescroll" is a digital sanctuary where depth meets discovery. Delve into a realm of thought-provoking content as you navigate through the virtual tunnels of information. Just like moles burrow beneath the surface to uncover hidden treasures, Molescroll invites you to scroll through layers of insightful narratives and engaging perspectives. Whether you're seeking profound insights or simply enjoying a leisurely scroll, Molescroll is your portal to a curated collection of stories, ideas, and musings. Join the journey of exploration, where each scroll unveils a new facet of knowledge and inspiration. Welcome to Molescroll, where depth and discovery converge in the digital landscape.
+
+Molescroll is a Django-based website designed for spiritual questions of Catholics. It provides a platform for users to ask and answer questions related to Catholicism.
+
+## Table of Contents
+
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Spiritual Q&A:** Users can ask and answer spiritual questions related to Catholicism.
+- **Admin Dashboard:** An admin dashboard is available for managing questions, users, and site content.
+- **Responsive Design:** The website is designed to be accessible on various devices.
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Caption for screenshot 1.*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for screenshot 2.*
+
+![Screenshot 3](screenshots/screenshot3.png)
+*Caption for screenshot 3.*
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.12
+- Django (install using `pip install Django`)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/molescroll.git
+   cd molescroll
